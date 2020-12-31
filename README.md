@@ -50,6 +50,6 @@ This scaffold installs and configures some useful frameworks and packages.
 ## npm scripts
 
 - `npm run test`: Run tests under `/test` folder.
-- `npm run doc`: Generate docs based on [doxygen](https://docs.soliditylang.org/en/v0.6.0/natspec-format.html).
+- `npm run doc`: Generate docs based on [doxygen](https://docs.soliditylang.org/en/v0.8.0/natspec-format.html).
 - `npm run coverage`: Generate code coverage configured by `.solcover.js`
 - `npm run analyze` Static analyze smart contracts configured by `slither.config.json`._Notice:You need install [Slither](https://github.com/crytic/slither#how-to-install) by yourself_
