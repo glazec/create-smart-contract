@@ -1,0 +1,5 @@
+{
+  "detectors_to_exclude": "detector37,detector60,detector62.detector68",
+  "filter_paths": "openzeppelin|console.sol|Migrations.sol",
+  "json": "security.json"
+}
