@@ -1,6 +1,6 @@
 let fs = require('fs')
 let path = require('path')
-const gitIgnore = fs.readFileSync(path.resolve(__dirname, './.gitignore'))
+const gitIgnore = fs.readFileSync(path.resolve(__dirname, './gitignore'))
 const solcover = fs.readFileSync(path.resolve(__dirname, './solcover.js'))
 const slither = fs.readFileSync(path.resolve(__dirname, './slither.config.json'))
 const hardhatConfig = fs.readFileSync(path.resolve(__dirname, './hardhat.config.js'))
