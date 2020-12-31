@@ -1,7 +1,6 @@
 {
   "name": "create-smart-contract",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +12,9 @@
     "shelljs": "^0.8.4"
   },
   "bin": {
-    "creat-smart-contract": "index.js"
-  }
+    "create-smart-contract": "index.js"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
 }

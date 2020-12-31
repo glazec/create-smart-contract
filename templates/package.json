@@ -1,0 +1,14 @@
+{
+  "name": "create-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "scripts": {
+    "test": "npx hardhat test",
+    "doc": "npx solidity-docgen --solc-module solc-0.7",
+    "coverage": "npx hardhat coverage --solcoverjs .\\solcover.js",
+    "analyze": "slither ./"
+  },
+  "author": "",
+  "license": "ISC"
+}
