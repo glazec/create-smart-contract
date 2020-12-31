@@ -1,6 +1,8 @@
 # Create Smart Contract
 
-Set up ethereum smart contract development environment with one command.
+![downloads](https://img.shields.io/npm/dt/create-smart-contract)
+
+![create-smart-contract](https://socialify.git.ci/glazec/create-smart-contract/image?description=1&descriptionEditable=Set%20up%20ethereum%20smart%20contract%20development%20environment%20with%20one%20command.&font=Inter&forks=1&language=1&owner=1&pattern=Floating%20Cogs&stargazers=1&theme=Light)
 
 ## Quick start
 
