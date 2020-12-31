@@ -5,7 +5,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "glaze",
   "license": "ISC",
   "dependencies": {
     "colors": "^1.4.0",
@@ -15,6 +15,19 @@
     "create-smart-contract": "index.js"
   },
   "devDependencies": {},
-  "keywords": [],
-  "description": ""
+  "keywords": [
+    "Etherum",
+    "Smart contract",
+    "Create-react-app"
+  ],
+  "description": "Set up ethereum smart contract development environment with one command.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glazec/create-smart-contract.git"
+  },
+  "bugs": {
+    "url": "https://github.com/glazec/create-smart-contract/issues",
+    "email": "i@inevitable.tech"
+  },
+  "homepage": "https://github.com/glazec/create-smart-contract#readme"
 }
